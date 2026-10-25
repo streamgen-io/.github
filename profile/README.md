@@ -1,7 +1,7 @@
 # StreamGen
 
-StreamGen lists every Snowflake app in a company in one place, with owners, usage, costs and health checks,
-and lets analysts build new Streamlit apps by describing them.
+StreamGen lists every Streamlit and App Runtime app in your Snowflake account in one place: who owns it, who uses it,
+what it costs and whether it still works. It also lets analysts build new Streamlit apps by describing them.
 
 - **Snowflake Native App** on the [Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSYZ1QF5MJ/streamgen-streamgen): installs in your own account, your data stays there.
 - [Free 7-day trial key](https://streamgen.io/trial/?utm_source=github&utm_medium=org-profile)
