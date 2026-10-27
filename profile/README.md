@@ -5,6 +5,7 @@ what it costs and whether it still works. It also lets analysts build new Stream
 
 - **Snowflake Native App** on the [Snowflake Marketplace](https://app.snowflake.com/marketplace/listing/GZSYZ1QF5MJ/streamgen-streamgen): installs in your own account, your data stays there.
 - [Free 7-day trial key](https://streamgen.io/trial/?utm_source=github&utm_medium=org-profile)
+- See it working first: [the StreamGen demo](https://demo.uppcoder.com/demo/streamgen?utm_source=github&utm_medium=org-profile), no account needed.
 - No Snowflake account? [A 2-hour sandbox on sample data](https://portal.uppcoder.com/try/streamgen?utm_source=github&utm_medium=org-profile), no sign-up.
 
 Read more:
